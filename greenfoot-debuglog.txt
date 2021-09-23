@@ -1,0 +1,81 @@
+Greenfoot run started: Thu Sep 09 13:02:03 CEST 2021
+Greenfoot version: 3.7.0
+Java version 11.0.10
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.10+9 (AdoptOpenJDK)
+Running on: Windows 10 10.0 (amd64)
+Java Home: D:\StudentskePriecinky\4C\greenfoot\jdk
+----
+Opening project: D:\StudentskePriecinky\4C\feranec\projket3
+1631185456334: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: userhome\greenfoot\import-cache.xml (The system cannot find the file specified)
+====
+
+====
+Greenfoot run started: Mon Sep 13 09:47:35 CEST 2021
+Greenfoot version: 3.7.0
+Java version 11.0.10
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.10+9 (AdoptOpenJDK)
+Running on: Windows 10 10.0 (amd64)
+Java Home: D:\StudentskePriecinky\4C\greenfoot\jdk
+----
+Opening project: D:\StudentskePriecinky\4C\feranec\projket3
+1631519256204: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+Greenfoot run started: Mon Sep 13 10:26:31 CEST 2021
+Greenfoot version: 3.7.0
+Java version 11.0.10
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.10+9 (AdoptOpenJDK)
+Running on: Windows 10 10.0 (amd64)
+Java Home: D:\StudentskePriecinky\4C\greenfoot\jdk
+----
+Opening project: D:\StudentskePriecinky\4C\feranec\projket3
+1631521592263: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Opening project: D:\StudentskePriecinky\4C\userhome\p1
+1631522511063: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+Greenfoot run started: Tue Sep 21 09:35:21 CEST 2021
+Greenfoot version: 3.7.0
+Java version 11.0.10
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.10+9 (AdoptOpenJDK)
+Running on: Windows 10 10.0 (amd64)
+Java Home: D:\StudentskePriecinky\4C\greenfoot\jdk
+----
+Opening project: D:\StudentskePriecinky\4C\feranec\projket3
+1632209722565: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Opening project: D:\StudentskePriecinky\4C\userhome\p1
+1632209751661: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+Greenfoot run started: Thu Sep 23 09:37:02 CEST 2021
+Greenfoot version: 3.7.0
+Java version 11.0.10
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.10+9 (AdoptOpenJDK)
+Running on: Windows 10 10.0 (amd64)
+Java Home: D:\StudentskePriecinky\4C\greenfoot\jdk
+----
+Opening project: D:\StudentskePriecinky\4C\userhome\p1
+1632382623721: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
